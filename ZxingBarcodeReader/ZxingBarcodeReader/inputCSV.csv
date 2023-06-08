@@ -1,0 +1,11 @@
+./output/NW7_12345.png,12345,NW7
+./output/CODE_39_abcd.png,abcd,CODE_39
+./output/CODE_93_abcd.png,abcd,CODE_93
+./output/CODE_128_abcd.png,abcd,CODE_128
+./output/DATA_MATRIX_abcd.png,abcd,DATA_MATRIX
+./output/EAN_8_1234567.png,1234567,EAN_8
+./output/EAN_13_123456789012.png,123456789012,EAN_13
+./output/ITF_1234567890.png,1234567890,ITF
+./output/PDF_417_1234567890.png,1234567891,PDF_417
+./output/UPC_A_12345678901.png,12345678901,UPC_A
+./output/UPC_E_1234567.png,1234567,UPC_E
